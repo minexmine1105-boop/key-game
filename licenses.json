@@ -13,5 +13,10 @@
     "active": true,
     "hwid": "ANY",
     "expires": "5-Minutes-Trial"
+  },
+  "TEST-162B55": {
+    "active": true,
+    "hwid": "ANY",
+    "expires": "1-Minutes-Trial"
   }
 }
