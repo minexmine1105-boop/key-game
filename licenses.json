@@ -38,5 +38,11 @@
     "hwid": "FIRST",
     "expires": "2026-12-06 10:39:45",
     "creator": "8201976656 (Namle)"
+  },
+  "GIFT-04B242": {
+    "active": true,
+    "hwid": "FIRST",
+    "expires": "2026-11-28",
+    "creator": "8201976656 (Namle)"
   }
 }
