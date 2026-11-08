@@ -3,5 +3,10 @@
     "active": true,
     "hwid": "ANY",
     "expires": "5-Minutes-Trial"
+  },
+  "TEST-9E3DFE": {
+    "active": true,
+    "hwid": "ANY",
+    "expires": "60-Minutes-Trial"
   }
 }
