@@ -68,5 +68,11 @@
     "hwid": "FIRST",
     "expires": "2026-11-09",
     "creator": "6136824639 (DucTri)"
+  },
+  "TEST-39F7BC": {
+    "active": true,
+    "hwid": "ANY",
+    "expires": "2026-11-08 19:46:12",
+    "creator": "6997048898 (Admin)"
   }
 }
