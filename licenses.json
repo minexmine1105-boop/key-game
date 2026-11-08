@@ -8,5 +8,10 @@
     "hwid": "ANY",
     "expires": "2026-11-09",
     "active": true
+  },
+  "TEST-5B85BD": {
+    "active": true,
+    "hwid": "ANY",
+    "expires": "5-Minutes-Trial"
   }
 }
