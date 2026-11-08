@@ -74,5 +74,11 @@
     "hwid": "FIRST",
     "expires": "2026-11-08 22:05:06",
     "creator": "6997048898 (Admin)"
+  },
+  "GIFT-A06688": {
+    "active": true,
+    "hwid": "FIRST",
+    "expires": "2026-11-08 22:05:17",
+    "creator": "6997048898 (Admin)"
   }
 }
