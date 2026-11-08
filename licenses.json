@@ -8,10 +8,5 @@
     "hwid": "ANY",
     "expires": "2026-11-09",
     "active": true
-  },
-  "TEST-DC6BC9": {
-    "active": true,
-    "hwid": "ANY",
-    "expires": "5-Minutes-Trial"
   }
 }
