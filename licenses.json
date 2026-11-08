@@ -56,5 +56,11 @@
     "hwid": "AND-A2DDF5030A51DB02",
     "expires": "2026-12-08",
     "creator": "8201976656 (Namle)"
+  },
+  "Admin": {
+    "active": true,
+    "hwid": "AND-DA04A0CD12714F23",
+    "expires": "2029-08-03",
+    "creator": "6997048898 (Admin)"
   }
 }
