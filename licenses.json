@@ -1,1 +1,7 @@
-{}
+{
+  "test": {
+    "hwid": "ANY",
+    "expires": "2026-11-09",
+    "active": true
+  }
+}
