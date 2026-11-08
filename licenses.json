@@ -3,10 +3,5 @@
     "hwid": "ANY",
     "expires": "2026-11-09",
     "active": true
-  },
-  "test": {
-    "hwid": "ANY",
-    "expires": "2026-11-10",
-    "active": true
   }
 }
