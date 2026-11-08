@@ -56,5 +56,11 @@
     "hwid": "AND-A2DDF5030A51DB02",
     "expires": "2026-12-08",
     "creator": "8201976656 (Namle)"
+  },
+  "GIFT-22FC05": {
+    "active": true,
+    "hwid": "FIRST",
+    "expires": "2026-11-08 16:43:07",
+    "creator": "6997048898 (Admin)"
   }
 }
