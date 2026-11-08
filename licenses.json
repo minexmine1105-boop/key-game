@@ -62,5 +62,11 @@
     "hwid": "AND-B1F76A738AECD21C",
     "expires": "2026-12-08",
     "creator": "8201976656 (Namle)"
+  },
+  "GIFT-ECBDB6": {
+    "active": true,
+    "hwid": "FIRST",
+    "expires": "2026-11-09",
+    "creator": "6136824639 (DucTri)"
   }
 }
