@@ -38,5 +38,11 @@
     "hwid": "AND-A2DDF5030A51DB02",
     "expires": "2029-08-03",
     "creator": "6997048898 (Admin)"
+  },
+  "HAIKSNEKEOSN": {
+    "active": true,
+    "hwid": "ANY",
+    "expires": "2026-12-08",
+    "creator": "8201976656 (Namle)"
   }
 }
