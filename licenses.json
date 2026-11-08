@@ -3,5 +3,10 @@
     "active": true,
     "hwid": "ANY",
     "expires": "60-Minutes-Trial"
+  },
+  "GIFT-244121": {
+    "active": true,
+    "hwid": "FIRST",
+    "expires": "2026-11-09"
   }
 }
