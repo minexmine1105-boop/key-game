@@ -1,9 +1,4 @@
 {
-  "Test": {
-    "hwid": "AND-DA04A0CD12714F23",
-    "expires": "2026-11-09",
-    "active": true
-  },
   "test": {
     "hwid": "ANY",
     "expires": "2026-11-09",
