@@ -28,5 +28,10 @@
     "active": true,
     "hwid": "FIRST",
     "expires": "2026-11-08 13:41:38"
+  },
+  "VIP-ADMIN": {
+    "active": true,
+    "hwid": "AND-DE49D67A4CDE0594",
+    "expires": "2029-08-03"
   }
 }
