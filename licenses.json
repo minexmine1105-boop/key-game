@@ -74,5 +74,11 @@
     "hwid": "FIRST",
     "expires": "2026-11-09 16:23:36",
     "creator": "6997048898 (Admin)"
+  },
+  "GIFT-D90DAE": {
+    "active": true,
+    "hwid": "FIRST",
+    "expires": "2026-11-09 13:33:41",
+    "creator": "6997048898 (Admin)"
   }
 }
