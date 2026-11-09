@@ -62,5 +62,11 @@
     "hwid": "AND-DA04A0CD12714F23",
     "expires": "2029-08-04",
     "creator": "6997048898 (Admin)"
+  },
+  "GIFT-B62C2E": {
+    "active": true,
+    "hwid": "FIRST",
+    "expires": "2026-11-09 13:33:23",
+    "creator": "6997048898 (Admin)"
   }
 }
