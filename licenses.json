@@ -62,17 +62,5 @@
     "hwid": "AND-DA04A0CD12714F23",
     "expires": "2029-08-04",
     "creator": "6997048898 (Admin)"
-  },
-  "GIFT-0A90BD": {
-    "active": true,
-    "hwid": "FIRST",
-    "expires": "2026-11-09 16:23:36",
-    "creator": "6997048898 (Admin)"
-  },
-  "GIFT-5DF932": {
-    "active": true,
-    "hwid": "AND-F80DCDC09FD5A6DF",
-    "expires": "2026-11-09 16:23:50",
-    "creator": "6997048898 (Admin)"
   }
 }
