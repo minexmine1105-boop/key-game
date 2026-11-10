@@ -63,5 +63,11 @@
     "hwid": "ANY",
     "expires": "2026-12-10",
     "creator": "8201976656 (Namle)"
+  },
+  "CONCHOMAP": {
+    "active": true,
+    "hwid": "ANY",
+    "expires": "2026-12-10",
+    "creator": "8201976656 (Namle)"
   }
 }
