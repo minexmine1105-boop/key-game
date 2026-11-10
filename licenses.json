@@ -39,5 +39,11 @@
     "hwid": "FIRST",
     "expires": "2026-11-11 02:09:21",
     "creator": "6997048898 (Admin)"
+  },
+  "PHAMTRONGHINH": {
+    "active": true,
+    "hwid": "AND-7E54A847907A2C90",
+    "expires": "2026-12-10",
+    "creator": "8201976656 (Namle)"
   }
 }
