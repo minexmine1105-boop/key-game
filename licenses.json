@@ -105,5 +105,11 @@
     "hwid": "AND-6CC168AE3F726297",
     "expires": "2026-12-12",
     "creator": "8201976656 (Namle)"
+  },
+  "CHICHEMTATTHO": {
+    "active": true,
+    "hwid": "AND-858C1696A634C594",
+    "expires": "2026-12-12",
+    "creator": "8201976656 (Namle)"
   }
 }
