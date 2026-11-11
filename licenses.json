@@ -93,5 +93,11 @@
     "hwid": "AND-D4552E283007A06F",
     "expires": "2027-09-07",
     "creator": "9202344480 (vanhni)"
+  },
+  "BOLATRUMGAME": {
+    "active": true,
+    "hwid": "AND-33E8F4A52BED8F72",
+    "expires": "2026-12-11",
+    "creator": "8201976656 (Namle)"
   }
 }
