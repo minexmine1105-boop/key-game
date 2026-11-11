@@ -111,5 +111,11 @@
     "hwid": "AND-858C1696A634C594",
     "expires": "2026-12-12",
     "creator": "8201976656 (Namle)"
+  },
+  "HAMIENGRA": {
+    "active": true,
+    "hwid": "ANY",
+    "expires": "2026-11-13",
+    "creator": "8201976656 (Namle)"
   }
 }
