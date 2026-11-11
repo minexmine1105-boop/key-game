@@ -93,5 +93,11 @@
     "hwid": "AND-33E8F4A52BED8F72",
     "expires": "2026-12-11",
     "creator": "8201976656 (Namle)"
+  },
+  "bolatrum": {
+    "active": true,
+    "hwid": "ANY",
+    "expires": "2026-11-19",
+    "creator": "8201976656 (Namle)"
   }
 }
