@@ -93,5 +93,11 @@
     "hwid": "FIRST",
     "expires": "2026-12-16 06:42:44",
     "creator": "9202344480 (vanhni)"
+  },
+  "BOLATRUMMOD": {
+    "active": true,
+    "hwid": "AND-7EEFA9603BF1DECB",
+    "expires": "2026-12-11",
+    "creator": "9202344480 (vanhni)"
   }
 }
