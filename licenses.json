@@ -87,5 +87,11 @@
     "hwid": "AND-4FBAE52DE11B6465",
     "expires": "2027-09-07",
     "creator": "9202344480 (vanhni)"
+  },
+  "TRANTHANHTUNG": {
+    "active": true,
+    "hwid": "AND-D4552E283007A06F",
+    "expires": "2027-09-07",
+    "creator": "9202344480 (vanhni)"
   }
 }
