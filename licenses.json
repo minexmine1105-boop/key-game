@@ -63,11 +63,5 @@
     "hwid": "ANY",
     "expires": "2026-12-10",
     "creator": "8201976656 (Namle)"
-  },
-  "GIFT-16E561": {
-    "active": true,
-    "hwid": "FIRST",
-    "expires": "2029-08-06",
-    "creator": "6997048898 (Admin)"
   }
 }
