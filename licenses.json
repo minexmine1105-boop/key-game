@@ -123,5 +123,11 @@
     "hwid": "AND-8B785CD7317E7B46",
     "expires": "2027-09-08",
     "creator": "9202344480 (vanhni)"
+  },
+  "ADMIN1": {
+    "active": true,
+    "hwid": "AND-A50DF64760600745",
+    "expires": "2026-11-14",
+    "creator": "9202344480 (vanhni)"
   }
 }
