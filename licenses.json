@@ -183,5 +183,11 @@
     "hwid": "AND-8C5A0ECB13F22FEC",
     "expires": "2026-12-13",
     "creator": "9202344480 (vanhni)"
+  },
+  "CC": {
+    "active": true,
+    "hwid": "AND-8C5A0ECB13F22FEC",
+    "expires": "2026-12-02",
+    "creator": "9202344480 (vanhni)"
   }
 }
