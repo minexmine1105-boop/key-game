@@ -147,5 +147,11 @@
     "hwid": "FIRST",
     "expires": "2026-11-12 13:21:44",
     "creator": "9202344480 (vanhni)"
+  },
+  "34FBF7": {
+    "active": true,
+    "hwid": "AND-89C40EC1C647FC9E",
+    "expires": "2026-11-22",
+    "creator": "9202344480 (vanhni)"
   }
 }
