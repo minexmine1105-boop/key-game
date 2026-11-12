@@ -171,5 +171,11 @@
     "hwid": "AND-4393646ED9653992",
     "expires": "2026-12-13",
     "creator": "9202344480 (vanhni)"
+  },
+  "PHIMSEXNHATBAN": {
+    "active": true,
+    "hwid": "AND-805A0ECB13F22FEC",
+    "expires": "2026-12-13",
+    "creator": "9202344480 (vanhni)"
   }
 }
