@@ -177,5 +177,11 @@
     "hwid": "AND-805A0ECB13F22FEC",
     "expires": "2026-12-13",
     "creator": "9202344480 (vanhni)"
+  },
+  "ADMIN100": {
+    "active": true,
+    "hwid": "AND-8C5A0ECB13F22FEC",
+    "expires": "2026-12-13",
+    "creator": "9202344480 (vanhni)"
   }
 }
